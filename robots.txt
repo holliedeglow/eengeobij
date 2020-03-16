@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://noxoongie.uds.li/sitemap.xml
